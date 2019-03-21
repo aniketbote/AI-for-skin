@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>eczema.jpg</filename>
+	<path>C:\Users\Aniket\Desktop\Aniket\syrus\workspace\training_demo\images\train\eczema.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eczema</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>86</ymin>
+			<xmax>201</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

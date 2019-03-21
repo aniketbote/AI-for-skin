@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>lesions.jpg</filename>
+	<path>C:\Users\Aniket\Desktop\Aniket\syrus\workspace\training_demo\images\train\lesions.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lesions</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>65</ymin>
+			<xmax>198</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

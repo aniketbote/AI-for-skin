@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>extra.jpg</filename>
+	<path>C:\Users\Aniket\Desktop\Aniket\syrus\workspace\training_demo\images\train\extra.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>extra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>11</ymin>
+			<xmax>225</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>
